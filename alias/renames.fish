@@ -1,1 +1,1 @@
-set ls lsd
+alias ls lsd
