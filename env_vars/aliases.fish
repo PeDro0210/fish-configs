@@ -11,3 +11,4 @@ alias flutterEmulator="$HOME/Android/Sdk/emulator/emulator -avd flutter_emulator
 alias fastfetch="fastfetch --config groups"
 alias flatpak0-update="~/ShellFiles/flatpak-update.sh"
 alias deno-tauri-run="WEBKIT_DISABLE_DMABUF_RENDERER=1 deno task tauri dev"
+alias nvi = "nvim ."
